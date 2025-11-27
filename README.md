@@ -1,2 +1,3 @@
 # Python
-This repository contains basic python programming including data types, operations on different data types, Numpy, Pandas, Matplotlib
+## This repository contains basic python programming including data types, operations on different data types
+## Introduction to Numpy, Pandas, Matplotlib
